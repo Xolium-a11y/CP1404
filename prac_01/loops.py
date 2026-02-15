@@ -19,7 +19,7 @@ number_of_stars = int(input("Enter number of stars: "))
 for i in range(1, number_of_stars + 1):
     print("*" * i)
 
-
+print("*" * number_of_stars)
 
 
 
